@@ -6,14 +6,6 @@ A Telegram bot that downloads videos from **X (Twitter)** and sends them straigh
 
 ---
 
-## 📸 Preview
-
-| Sending a link | Receiving the video |
-|---|---|
-| ![Send link](screenshots/1-send-link.png) | ![Receive video](screenshots/2-receive-video.png) |
-
----
-
 ## ✨ Features
 
 - 🔗 **Paste and go** — send an X/Twitter link, get the video back in seconds
